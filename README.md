@@ -57,6 +57,7 @@ PHP is written in C.
 ### Tools
 
 - [Grok](http://lxr.php.net/) *seems to be down right now :/*
+- [Alternative Grok](https://lxr.room11.org/)
 
 ## Documentation
 
